@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lb8.1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F4EFB0-2664-418E-B0D6-3804549E9957}|UnitTest8.1.2\\UnitTest8.1.2.vcxproj|C:\\Users\\Admin\\source\\repos\\lb8.1.2\\UnitTest8.1.2\\UnitTest8.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9F4EFB0-2664-418E-B0D6-3804549E9957}|UnitTest8.1.2\\UnitTest8.1.2.vcxproj|solutionrelative:UnitTest8.1.2\\UnitTest8.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3178A72-401A-44A0-A6B2-B0877D84C746}|lb8.1.2\\lb8.1.2.vcxproj|C:\\Users\\Admin\\source\\repos\\lb8.1.2\\lb8.1.2\\lb8.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3178A72-401A-44A0-A6B2-B0877D84C746}|lb8.1.2\\lb8.1.2.vcxproj|solutionrelative:lb8.1.2\\lb8.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest8.1.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb8.1.2\\UnitTest8.1.2\\UnitTest8.1.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest8.1.2\\UnitTest8.1.2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb8.1.2\\UnitTest8.1.2\\UnitTest8.1.2.cpp",
+              "RelativeToolTip": "UnitTest8.1.2\\UnitTest8.1.2.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T12:21:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lb8.1.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb8.1.2\\lb8.1.2\\lb8.1.2.cpp",
+              "RelativeDocumentMoniker": "lb8.1.2\\lb8.1.2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb8.1.2\\lb8.1.2\\lb8.1.2.cpp",
+              "RelativeToolTip": "lb8.1.2\\lb8.1.2.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T12:19:35.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
